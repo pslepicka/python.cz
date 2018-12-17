@@ -1,0 +1,218 @@
+BEGIN:VCALENDAR
+PRODID:ics.py - http://git.io/lLljaA
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20181217T220400Z
+DTSTART:20190306T180000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2019-03-06@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181217T220400Z
+DTSTART:20190116T180000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2019-01-16@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181217T220400Z
+DTSTART:20190130T170000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2019-01-30@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181217T220400Z
+DTSTART:20190327T170000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2019-03-27@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181217T220400Z
+DTSTART:20190102T180000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2019-01-02@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181217T220400Z
+DTSTART:20190313T170000Z
+SUMMARY:(Plzeňské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:plzen-pyvo-2019-03-13@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181217T220400Z
+DTSTART:20190228T180000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2019-02-28@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181217T220400Z
+DTSTART:20190425T170000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2019-04-25@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181217T220400Z
+DTSTART:20190109T170000Z
+SUMMARY:(Plzeňské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:plzen-pyvo-2019-01-09@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181217T220400Z
+DTSTART:20190515T170000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2019-05-15@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181217T220400Z
+DTSTART:20190220T180000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2019-02-20@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181217T220400Z
+DTSTART:20190529T160000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2019-05-29@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181217T220400Z
+DTSTART:20190417T170000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2019-04-17@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181217T220400Z
+DTSTART:20190501T170000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2019-05-01@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20181121T115454Z
+LAST-MODIFIED:20181121T115454Z
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20181217T220400Z
+DTSTART;VALUE=DATE:20190614
+DTEND:20190618T000000Z
+SUMMARY:PyCon CZ 2019
+TRANSP:TRANSPARENT
+UID:2j298gbtq5cn1prgv61fqmmk0p@google.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181217T220400Z
+DTSTART:20190131T180000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2019-01-31@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181217T220400Z
+DTSTART:20190206T180000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2019-02-06@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181217T220400Z
+DTSTART:20181219T180000Z
+SUMMARY:Pražské Pyvo #93 Vánoční hardwarový speciál
+DESCRIPTION:Pyvo hardwarové\, Pyvo vánoční! Přineste ostatním ukázat všechna blikátka\, dejchátka\, točítka\, hry –\nproste vše\, co najdete na půdě hardwarového\, po dědečkovi i babičce!\nSměňte to\, co už máte a nepotřebujete\, za to\, co rozhodně nutně potřebujete. Připravte si na to rozhodně i lightning talk\, ať se něco nového dozvíme.\n
+LOCATION:Na Věnečku\, Ostrovského 38a\, Praha 5\, Czech Republic\, 15000\, Praha
+URL:https://pyvo.cz/praha-pyvo/2018-12/
+TRANSP:OPAQUE
+UID:praha-pyvo-2018-12-19@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181217T220400Z
+DTSTART:20190403T170000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2019-04-03@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181217T220400Z
+DTSTART:20190328T180000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2019-03-28@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181217T220400Z
+DTSTART:20190227T170000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2019-02-27@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181217T220400Z
+DTSTART:20190424T160000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2019-04-24@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181217T220400Z
+DTSTART:20190508T160000Z
+SUMMARY:(Plzeňské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:plzen-pyvo-2019-05-08@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181217T220400Z
+DTSTART:20190320T180000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2019-03-20@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181217T220400Z
+DTSTART:20181226T170000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2018-12-26@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181217T220400Z
+DTSTART:20190530T170000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2019-05-30@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+END:VCALENDAR
