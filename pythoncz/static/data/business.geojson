@@ -25,6 +25,18 @@
                "coordinates": [14.403246, 50.076407]
             }
         },
+	{
+            "type": "Feature",
+            "properties": {
+                "name": "radixal",
+                "url": "http://radixal.net/",
+                "company": true
+            },
+            "geometry": {
+                "type": "Point",
+               "coordinates": [16.572760, 49.233301]
+        }
+        },
         {
             "type": "Feature",
             "properties": {
